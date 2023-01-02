@@ -1,0 +1,12 @@
+[
+{
+  "directory": "C:/repositorys/hpgl-server/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DFMT_SHARED -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DSPDLOG_SHARED_LIB -IC:/repositorys/hpgl-server/lib -IC:/msys64/mingw64/share/cmake/CLI11/include -g -o CMakeFiles\\HPGLServer.dir\\src\\main.cpp.obj -c C:\\repositorys\\hpgl-server\\src\\main.cpp",
+  "file": "C:\\repositorys\\hpgl-server\\src\\main.cpp"
+},
+{
+  "directory": "C:/repositorys/hpgl-server/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DFMT_SHARED -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DSPDLOG_SHARED_LIB -IC:/repositorys/hpgl-server/lib -IC:/msys64/mingw64/share/cmake/CLI11/include -g -o CMakeFiles\\HPGLServer.dir\\lib\\job.cpp.obj -c C:\\repositorys\\hpgl-server\\lib\\job.cpp",
+  "file": "C:\\repositorys\\hpgl-server\\lib\\job.cpp"
+}
+]
